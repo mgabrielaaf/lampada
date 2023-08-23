@@ -1,0 +1,10 @@
+header, main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+}
